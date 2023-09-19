@@ -22,5 +22,14 @@ button {
   border-radius: 50%;
   font-size: 200px;
   font-family: "Montserrat", sans-serif;
+  font-weight: 300;
   color: #ffeedf;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+span {
+  height: 265px;
 }
